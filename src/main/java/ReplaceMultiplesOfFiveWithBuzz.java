@@ -1,7 +1,7 @@
-public class ReplaceFiveWithBuzz {
+public class ReplaceMultiplesOfFiveWithBuzz {
 
 
-    public ReplaceFiveWithBuzz() {
+    public ReplaceMultiplesOfFiveWithBuzz() {
     }
 
     public String replace(int number) {
